@@ -43,6 +43,10 @@ else:
     print("83 is not our numbers")
 
 #Part 2
+# Module 4 Lab-4
+# Sebastian Melendez
+# 03/13/24
+# Calculates bonuses depending on specific Monthly sales amounts. Calculates individual employee bonuses and gives the total amount on both. 
 
 monthlySales = float(input("Monthly Sales:"))
 
