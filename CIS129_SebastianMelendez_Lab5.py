@@ -1,3 +1,6 @@
+#Sebastian Melendez Del Toro
+#The program calculates how many bottles are returned in a week and the total payout for 7 days.
+
 keep_going = 'y'
 # Set variables and first while loop
 while keep_going == 'y':
